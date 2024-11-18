@@ -1,0 +1,26 @@
+---
+title: "saudade do futuro"
+subtitle: "brazilian jazz & popular music"
+format: 
+  html:
+    page-layout: full
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  grid-columns: 3
+  fields: [image, title, subtitle, date]
+  field-display-names:
+    title: "    "
+    date: "    "
+  field-links: [image, title]
+  image-align: left
+categories: false
+sort-ui: false
+filter-ui: false
+table-hover: false
+image-lazy-loading: false
+title-block-banner: false
+---
+
+<!--# saudade do futuro-->
